@@ -1,4 +1,4 @@
-# Fintech Module 13 Challenge: FinTech Module 13 Challenge: Binary classification model using a deep neural network.
+# Fintech Module 13 Challenge: Binary classification model using a deep neural network.
 
 To predict whether Alphabet Soup funding applicants will be successful, you will create a binary classification model using a deep neural network.
 This challenge consists of three technical deliverables. You will do the following:
